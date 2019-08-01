@@ -425,5 +425,3 @@ print(r.status_code)  # thidhifrijdsijsif
 
 print("this is cool!")'''
 # To install virtual environment type python -m venv venv_module_name
-name = input("Your name? ")
-print(f'hello {name}')
